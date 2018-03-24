@@ -1,5 +1,5 @@
-<b>AppName:</b> Smart Tool
-<b>Author:</b> Shahed Mohammad Hridoy
+<li><b>AppName:</b> Smart Tool</li>
+<li><b>Author:</b> <a href="https://facebook.com/iamShahedMohammadHridoy">Shahed Mohammad Hridoy</a></li>
 
 <ul>
 <li>Ruler</li>
